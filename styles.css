@@ -118,6 +118,7 @@ li:hover {
   
 }
 a{
+    padding: 0 0.5rem;
    
     text-decoration: none;
     color: #c0004a;
