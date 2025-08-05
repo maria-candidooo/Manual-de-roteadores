@@ -39,6 +39,7 @@ html, body{
 
 .box{
     background-color: var(--branco) ;
+    height: 90vh;
 
 }
 .first{
